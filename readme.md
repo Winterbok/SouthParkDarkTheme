@@ -4,11 +4,11 @@ For the people who liked the old https://www.southparkstudios.com/ theme. Plus s
 
 ## Installation
 
-Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) to overwrite the page css.
+Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) to overwrite the page css. (Any other extension that can overwrite css will suffice)
 
 ## Usage
 
-Open Stylebot then put the content of style.css into the text editor. (Any other extension that can overwrite css will suffice)
+Open Stylebot then put the content of style.css into the text editor.
 
 ## Examples
 
