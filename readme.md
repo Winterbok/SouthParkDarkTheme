@@ -17,3 +17,5 @@ Open Stylebot then put the content of style.css into the text editor.
 ![Video carousel](/2.png)
 
 ![Video](/3.png)
+
+![Season select extended](/4.png)
