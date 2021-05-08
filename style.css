@@ -1,0 +1,71 @@
+/* Author: Winterbok */
+
+
+/* General styling */
+
+div.page-content {
+	background-color: black;
+}
+
+div div span {
+	color: white;
+}
+
+
+/* Main page fix */
+
+section.module-container.content-package.content-package-module-container:nth-of-type(3) {
+	visibility: hidden;
+	height: 0;
+}
+
+section.module-container.content-package.content-package-module-container:nth-of-type(4) {
+	visibility: hidden;
+	height: 0;
+}
+
+
+/* Grid container for videos */
+
+.grid-container .item,
+.grid-container [data-display-name="Card:Video"] {
+	background-color: black;
+	--grid-columns: 8;
+	FONT-WEIGHT: 500;
+	width: calc(100% / var(--grid-columns) - var(--grid-gutter));
+}
+
+.video-guide-container .grid-container .item.full-ep:first-child {
+	background-color: black;
+	--grid-gutter: 500px;
+	width: calc(100% - var(--grid-gutter));
+}
+
+.item .deck span,
+.item h1,
+.item h2,
+.item h3,
+.item h4,
+.item h5,
+.item h6,
+.item p {
+	background-color: black;
+	font-weight: inherit;
+	font-style: inherit;
+	color: white;
+	font-size: 10px;
+}
+
+a.e1db50g90.css-1n534zc-StyledTypography-Box-Flex-StyledRandomizer.e1wje7qk0 {
+	background-color: black;
+}
+
+div.meta-wrap.css-1b0z283-Wrapper.e1u7s1dj0 {
+	background-color: black;
+}
+
+div.item.full-ep.video.css-q2f74n-Wrapper.e19yuxbf0 {
+	background-color: black;
+	--grid-gutter: 500px;
+	width: calc(100% - var(--grid-gutter));
+}
