@@ -9,3 +9,5 @@ Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/s
 ## Usage
 
 Open Stylebot then put the content of style.css into the text editor.
+
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
