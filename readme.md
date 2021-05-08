@@ -10,4 +10,10 @@ Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/s
 
 Open Stylebot then put the content of style.css into the text editor.
 
+## Examples
+
+![MarineGEO circle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vGFyftkpozTQWmX1gWA0QBBJC3DRFsOOZm0MWuuyg4otzOWurNEsJp1GcBBA9SIinso&usqp=CAU)
+
+![MarineGEO circle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vGFyftkpozTQWmX1gWA0QBBJC3DRFsOOZm0MWuuyg4otzOWurNEsJp1GcBBA9SIinso&usqp=CAU)
+
 ![MarineGEO circle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vGFyftkpozTQWmX1gWA0QBBJC3DRFsOOZm0MWuuyg4otzOWurNEsJp1GcBBA9SIinso&usqp=CAU)
