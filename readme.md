@@ -1,6 +1,6 @@
 # SouthParkDarkTheme
 
-For the people who want the old https://www.southparkstudios.com/ theme back. Plus some extra fixes to make the containers more comprehendible.
+For the people who liked the old https://www.southparkstudios.com/ theme. Plus some extra fixes to make the video containers more comprehendible.
 
 ## Installation
 
