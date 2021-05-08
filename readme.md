@@ -1,0 +1,19 @@
+# South Park Dark Theme
+
+For the people who liked the old https://www.southparkstudios.com/ theme. Plus some extra fixes to make the video containers more comprehendible.
+
+## Installation
+
+Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) to overwrite the page css.
+
+## Usage
+
+Open Stylebot then put the content of style.css into the text editor.
+
+## Examples
+
+![MarineGEO circle logo](/1.png)
+
+![MarineGEO circle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vGFyftkpozTQWmX1gWA0QBBJC3DRFsOOZm0MWuuyg4otzOWurNEsJp1GcBBA9SIinso&usqp=CAU)
+
+![MarineGEO circle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vGFyftkpozTQWmX1gWA0QBBJC3DRFsOOZm0MWuuyg4otzOWurNEsJp1GcBBA9SIinso&usqp=CAU)
