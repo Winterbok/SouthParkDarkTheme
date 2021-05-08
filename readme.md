@@ -8,7 +8,7 @@ Use the chrome extenstion [stylebot](https://chrome.google.com/webstore/detail/s
 
 ## Usage
 
-Open Stylebot then put the content of style.css into the text editor.
+Open Stylebot then put the content of style.css into the text editor. (Any other extension that can overwrite css will suffice)
 
 ## Examples
 
