@@ -1,4 +1,4 @@
-# SouthParkDarkTheme
+# South Park Dark Theme
 
 For the people who liked the old https://www.southparkstudios.com/ theme. Plus some extra fixes to make the video containers more comprehendible.
 
